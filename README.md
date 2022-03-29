@@ -2,6 +2,6 @@
 
 Currently Learning 
 
-- Cpp Again
+- Cpp 
 - Data Structures 
 - Algorithms
